@@ -16,7 +16,7 @@ Working with a team comprised of people who fully understand and embrace the Gro
 >#### Three reminders to myself of how to maintain a Growth Mindset:
 >
 >- Keep constant, constructive communication with my teammates.
->- Embrace any criticism given to me, no matter who it may have come from.
+>- Embrace and learn from any criticism given to me, no matter who it may have come from.
 >- Always congratulate and be inspired by anyone that succeeds. Never allow jealousy to intervene.
 
 
