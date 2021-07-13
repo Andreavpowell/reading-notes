@@ -3,8 +3,9 @@
 *This is my reading notes repo to track all of my reading notes.*
 
 >## Notes:
-
+>
 >-[Code 201: Markdown](markdown.md)
+>
 >-Code 201: xxx
 
 
