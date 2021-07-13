@@ -4,7 +4,7 @@ This is my reading notes repo to track all of my reading notes.
 
 ### About Me
 
-My name is Andrea Powell. I am a student at CodeFellows with an eagerness to learn and implement all the wonderful skills I learn here into my future career as a Software Developer. [My GitHub profile](https://github.com/Andreavpowell)
+My name is Andrea Powell. I am a student at CodeFellows with an eagerness to learn and implement all the wonderful skills I learn here into my future career as a Software Developer. [My GitHub profile.](https://github.com/Andreavpowell)
 
 ___________________________________________________________________________________
 
