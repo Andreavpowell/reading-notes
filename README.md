@@ -2,10 +2,10 @@
 
 *This is my reading notes repo to track all of my reading notes.*
 
-## Notes:
+>## Notes:
 
->[Code 201: Markdown](markdown.md)
->Code 201: xxx
+>-[Code 201: Markdown](markdown.md)
+>-Code 201: xxx
 
 
 #### About Me
