@@ -4,8 +4,8 @@
 
 >## Notes:
 >
->-[Code 201: Markdown](markdown.md)
->-Code 201: xxx
+>- [Code 201: Markdown](markdown.md)
+>- Code 201: xxx
 
 
 #### About Me
