@@ -6,7 +6,8 @@ This is my reading notes repo to track all of my reading notes.
 
 My name is Andrea Powell. I am a student at CodeFellows with an eagerness to learn and implement all the wonderful skills I learn here into my future career as a Software Developer. My personal hobbies (when I'm not in front of my computer) revolve around being anywhere that *isn't* inside. This includes everything from hiking and camping to rock climbing and kayaking. [My GitHub profile.](https://github.com/Andreavpowell)
 
-<img src="Cuyamaca Peak.tiff" alt="summit of Cuyamaca Peak" width="200" height="121">
+<img src="https://www.dropbox.com/home?preview=cuyamaca_peak.tiff" alt="summit of Cuyamaca Peak" width="200" height="121">
+
 ___________________________________________________________________________________
 
 ### Growth Mindset
