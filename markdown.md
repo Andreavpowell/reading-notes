@@ -116,20 +116,25 @@ Divide your list of words with \- (for the first row) and separate columns with 
   XXX    | XXX    
 
 \- SHA references:
-SHA-1 hash references are converted to links.
+
+*SHA-1 hash references are converted to links.*
 
 \- Issue References within Repositories:
-Issue and Pull Request numbers are converted to links.
+
+*Issue and Pull Request numbers are converted to links.*
 
 \- \@mentions:
-Mentioining someone's username or a team will notify them.
+
+*Mentioining someone's username or a team will notify them.*
 
 \- URLs:
-URLs are converted to links.
+
+*URLs are converted to links.*
 
 \- Strikethrough:
 
     --strikethrough--
     
 \- Emoji:
-GitHub supports most [Emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
+*GitHub supports most [Emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)*
