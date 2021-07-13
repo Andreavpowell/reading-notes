@@ -18,7 +18,7 @@ ________________________________________________________________________________
 
 Working with a team comprised of people who fully understand and embrace the Growth Mindset is, in my opinion, one of the most important aspects of leading a successful career regardless of the industry. Following this particular mindset is not only about growing the company that you work with, but also growing yourself and setting an unwavering example for your coworkers so that you can all lift each other together towards success as a team ***AND*** individually. When you focus your own personal efforts towards growth, everything else begins to grow with you instead of falling stagnant. 
 
->#### Three reminders to myself of how to maintain a Growth Mindset:
+>#### Three reminders for myself to maintain a Growth Mindset:
 >
 >- Keep constant, constructive communication with my teammates.
 >- Embrace and learn from any criticism given to me, no matter who it may have come from.
