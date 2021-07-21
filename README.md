@@ -19,7 +19,6 @@ Working with a team comprised of people who fully understand and embrace the Gro
 >- Embrace and learn from any criticism given to me, no matter who it may have come from.
 >- Always congratulate and be inspired by anyone that succeeds. Never allow jealousy to intervene.
 
->## Notes:
->
->- [Markdown](markdown.md)
->- [Coder's Computer](coderscomputer.md)
+# Table of Contents:
+- [Markdown](markdown.md)
+- [Coder's Computer](coderscomputer.md)
