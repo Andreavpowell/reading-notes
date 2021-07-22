@@ -23,3 +23,4 @@ Working with a team comprised of people who fully understand and embrace the Gro
 - [Markdown](markdown.md)
 - [Coder's Computer](coderscomputer.md)
 - [GitHub Intro](gitintro.md)
+- [HTML](HTML.md)
