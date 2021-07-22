@@ -22,4 +22,4 @@ Working with a team comprised of people who fully understand and embrace the Gro
 # Table of Contents:
 - [Markdown](markdown.md)
 - [Coder's Computer](coderscomputer.md)
-- [GitHub Intro](github.md)
+- [GitHub Intro](gitintro.md)
