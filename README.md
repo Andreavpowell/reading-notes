@@ -25,3 +25,4 @@ Working with a team comprised of people who fully understand and embrace the Gro
 - [GitHub Intro](gitintro.md)
 - [HTML](HTML.md)
 - [CSS](css.md)
+- [JavaScript](javascript.md)
