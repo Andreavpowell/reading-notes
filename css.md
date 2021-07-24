@@ -49,7 +49,7 @@ Cascading Style Sheets lets you create the "pretty side" of your site within mar
   * External and internal style sheets (in `head`)
   * Browser default
 
-## CSS Color Properties
+# CSS Color Properties
 
 ### CSS Syntax
 * `color: red|initial|inheret;`
