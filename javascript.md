@@ -136,3 +136,6 @@ Img from the [HTML spec](https://html.spec.whatwg.org/images/asyncdefer.svg)
 *  You can add strings, but they will not be concatenated.
 * If you put a number in quotes, the rest of the numbers will be treated as strings and concatenated.
 * JS treats `$` and `_` as a letter, but `$` is not very commonly used.
+
+
+[Home](reading-notes.md)
