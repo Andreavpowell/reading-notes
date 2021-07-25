@@ -43,4 +43,96 @@ When a browser detects JavaScript, it runs it in order from top to bottom. Be ca
 
 ### Interpreted VS Compiled Code
 * Interpreted languages - runs from top to bottom and result is immediately returned
-* Compiled languages - transformed (compiled) into another form before they are run 
+* Compiled languages - transformed (compiled) into another form before they are run. (C/C++ are compiled into machine code that is then run by the computer. The program is executed from a binary format that was generated from the original program source code)
+
+### Server-Side VS Client-Side Code
+* Client-Side code is code that is run on the *computer* itself when a web page is viewed. It's downloaded, then run and displayed by the browser.
+* Server-Side code is run on the *server*, then it's results are downloaded and displayed in the browser. (PHP, Python, Ruby, ASP.NET, JavaScript)
+
+### Dynamic VS Static Code
+* Dynamic describes client-side JS and server-side languages. It refers to being able to update the display of a web page/app to show different things in different circumstances, generating new content as required.
+* Static is a web page with no dynamically updating content. It just shows the same content all the time. 
+
+# How to add
+### JavaScript
+1. Make a local copy of your file (ex. apply-javascript.html) and save it in a sensible directory.
+2. Open file in browser and text editor. HTML creates a simple web page containing a clickable button.
+3. Go to your editor and add the following in your `head` just before your closing `</head>` tag:
+`<script>` *enter*  `// JavaScript goes here` *enter*
+`</script>`
+4. Add JS code inside `<script>` element under the `// JavaScript goes here` line. 
+5. Save your file and refresh browser
+> Broke something? Go through the steps again. Save local copy with `.html` extension? Did you add `<script>` element before `<head>`? JS is case sensitive. Be very exact.
+
+### External JavaScript
+1. Create new file in the same  directory as your HTML file. Call it `script.js`. Must be JavaScript extension.
+2. Replace current `<script>` element with: `<script src='script.js" defer></script>`
+3. Insert your JS code
+4. Save file and refresh browser
+
+### Inline JavaScript Handlers
+* JS that lives inside your HTML    
+* DON'T DO THIS
+
+# Script Loading Strategies
+* HTML is always loaded in the  order that it appears causing JavaScript to run before your HTML elements. An Event Listener listens for the browser's `DOMContentLoaded` event which signifies that the HTML body is loaded and parsed. The JS in this block will not run until after that event is fired so the error is avoided.
+* The `defer` attribute tells the browser to continue downloading the HTML content once the `<script>` tag has been reached. With this, both the script and HTML will load simultaneously and successfully.
+* `async` and `defer` can both bypass the problem of blocking script. Scripts loaded with an `async`  attribute will download script without blocking the page while the script is being fetched. When complete, the script will execute which blocks the page from rendering. No guarantee they will run in order. Best to use `async` when the scripts run independently from one another and depend on no other script.
+* Script with `defer` will load in order and won't run until all page content is loaded which is useful is your scripts depend on the DOM being in place.
+![script loading methods](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript/async-defer.jpg)
+Img from the [HTML spec](https://html.spec.whatwg.org/images/asyncdefer.svg)
+* `async` should be used when you cave a bunch of background scripts to load in and you just want to get them in as soon as possible.
+* `async` and `defer` are both used to instruct the browser to download the scripts in a separate thread while the rest of the page loads.
+ 
+# Comments
+* Single line comment 
+  * `// I am a comment`
+* Multi-line comment
+  * `/*` *enter* `I am also` *enter* `a comment` *enter* `*/`
+
+# JavaScript Variables
+* The three ways to declare a JavaScript variable:
+  * `var`
+  * `let`
+  * `const`
+* Conatiners for storing data
+* Works similar to algebra
+
+# JavaScript Identifiers
+* All variables must be identified iwth unique names called *identifiers*.
+* Can be short names like x and y or more descriptive like sum, age, and totalVolume.
+* The rules of using names for variables:
+  * can contain letters, digits, underscores, and dollar signs
+  * must begin with a letter
+  * can begin with $ and _
+  * case sensitive
+  * reserved words (like JS keywords) cannot be used as names
+
+### Assignment Operator
+* `=` is an assesment, not an "equal to" order
+* `x = x + 5` does not make sense in algebra, but makes sense in JS as it assigns the value of x + 5 to x
+* `==` is "equal to" in JS
+
+### JavaScript Data Types
+* JS variables can hold numbers and text values
+* Text values are called text strings
+* Strings are written inside double or single quotes. Numbers are written without quotes.
+* If theres a number in quotes, it will be treated as a text string.
+
+### Declaring JavaScript Variables
+* Creating a variable (`var`) in JS is called "declaring" a variable. Without an assigned value, the `var` will be considered `undifined`.
+* Assign value by using `=`. `carName = "Volvo";`
+* Can also assign a value to the variable when you declare is `var carName = "Volvo";`.
+* Then we output the value inside an HTML paragraph with `id='demo`.
+* Separate variables with a comma.
+* Can span multiple lines.
+
+### Re-Declaring JavaScript Values
+* If you re-declare a JS variable, it will not lose it's value.
+* Ex: the variable for `carName` will still have a value of "Volvo" after the execution of `var carName;` again even if you don't add a value at the end.
+
+# JavaScript Arithmetic
+* Arithmetic with JavaScript variables uses operators like `=` and `+`.
+*  You can add strings, but they will not be concatenated.
+* If you put a number in quotes, the rest of the numbers will be treated as strings and concatenated.
+* JS treats `$` and `_` as a letter, but `$` is not very commonly used.
