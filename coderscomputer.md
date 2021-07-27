@@ -121,7 +121,3 @@ There are two types of command line options:
 * `rm -r` - Recursive - Deletes directory and all files/directories within
 
 [Home](reading-notes.md)
-
-
-
-
