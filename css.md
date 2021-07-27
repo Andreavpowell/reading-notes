@@ -66,8 +66,7 @@ Cascading Style Sheets lets you create the "pretty side" of your site within mar
 * HSL - `body {color: hsl(89, 43%, 51%);}`
 * HSLA - `body {color: hsla(89, 43%, 51%, 0.6);}`
 
-
-
+[Home](reading-notes.md)
 
 
 
