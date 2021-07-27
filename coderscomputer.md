@@ -120,8 +120,7 @@ There are two types of command line options:
 * `rm [options] [file]` - Deletes file
 * `rm -r` - Recursive - Deletes directory and all files/directories within
 
-
-
+[Home](reading-notes.md)
 
 
 
