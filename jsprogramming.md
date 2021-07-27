@@ -125,3 +125,4 @@ Operator | Description          | Example  | Same As       | Result | Decimal
 `>>`     | signed right shift   | `5 >> 1` | `0101 >> 1`   | `0010` | `2`
 `>>>`    | zero fill right shift| `5 >>> 1`| `0101 >>> 1`  | `0010` | `2`
 
+[Home](reading-notes.md)

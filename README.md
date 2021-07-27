@@ -26,4 +26,8 @@ Working with a team comprised of people who fully understand and embrace the Gro
 - [HTML](HTML.md)
 - [CSS](css.md)
 - [JavaScript](javascript.md)
+<<<<<<< HEAD
 - [JavaScript Programming](jsprogramming.md)
+=======
+- [JavaScript Programming](jsprogramming.md)
+>>>>>>> 30f49af32a56213d0b74a7e1db060cac477b43ba
