@@ -1,6 +1,6 @@
 # Programming with JavaScript
 
-## Control FLow
+## Control Flow
 * the order in which the computer executes statements in a script
 * run in order top to bottom unless the computer comes across control structures like conditionals (`if...else`) or loops
 * control structures can dictate complex flows of processing even within just a few lines
