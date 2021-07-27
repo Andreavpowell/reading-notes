@@ -138,3 +138,5 @@ Divide your list of words with \- (for the first row) and separate columns with 
 \- Emoji:
 
 *GitHub supports most [Emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)*
+
+[Home](reading-notes.md)
