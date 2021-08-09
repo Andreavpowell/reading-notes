@@ -19,11 +19,18 @@ Working with a team comprised of people who fully understand and embrace the Gro
 >- Embrace and learn from any criticism given to me, no matter who it may have come from.
 >- Always congratulate and be inspired by anyone that succeeds. Never allow jealousy to intervene.
 
-# Table of Contents:
+# Code 102 Reading Notes  
+
+## Table of Contents:
 - [Markdown](markdown.md)
 - [Coder's Computer](coderscomputer.md)
 - [GitHub Intro](gitintro.md)
 - [HTML](HTML.md)
 - [CSS](css.md)
 - [JavaScript](javascript.md)
-- [JavaScript Programming](jsprogramming.md)
+- [JavaScript Programming](jsprogramming.md)  
+
+# Code 201 Reading Notes  
+
+## Table of Contents:
+*
