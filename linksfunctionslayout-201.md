@@ -1,5 +1,7 @@
 #  HTML Links, JS Functions, and Intro to CSS Layout
 
+## HTML Links
+
 ## Links
 - created using the `<a>` (anchor) element
 - users can click on anything within the opening and closing tags
@@ -108,4 +110,107 @@
 
   *grids create pro and flexible designs*
   
-##
+# JS Functions; Methods and Objects
+
+## Declaring a function
+- create a function
+  - give it a name
+  - write statements to achieve a task between curly braces
+  - *function declaration*
+- `function sayHello() {  
+  document.write('Hello!');  
+}`
+  - function keyword - `function`
+  - function name (identifier) - `sayHello()`
+  - code block (statements) - `{  
+    document.write('Hello!') 
+  }`
+
+
+## Calling a Function
+- to run the code, use the function name followed by parenthesis
+  - `sayHello();`
+- this code *calls a function*
+- call as many times as you want
+
+## Declaring Functions That Need Info
+- when you do this, use *parameters*
+- inside the funciton, parameters act like variables
+- parameters are the parenthesis after the name
+- `function getArea(width, height) { 
+  return width * height;  
+}`
+  - each time you call this function, the values could be different
+  - demonstrates code can perform task without knowing exact details in advance as long as it has rules
+
+## Calling Functions That Need Info
+- you specify the values it should use in the parenthesis that follow the name
+- called *arguments*
+- can be values or variables
+- arguments as values
+  - `getArea(3, 5);`
+  - 3 will be used for width, 5 will be used for height
+- arguments as variables
+  - `wallWidth = 3;  
+     wallHeight = 5;  
+     getArea(wallWidth, wallHeight);`
+  - do not have to specify when calling, can use variables instead
+- parameters vs arguments
+  - parameters - words act like variables
+  - arguments - numbers act like values
+
+## Getting Single Value out of Function
+- some functions return info to the code that called them
+- `function calculateArea(width, height) {
+  var area = width * height;
+  return area;
+}
+  var wallOne = calculateArea(3, 5);
+  var wallTwo = calculateArea(8, 5);`
+  - `calculateArea` - returns area to code that called it
+  - variable called area is created and holds calculated area of the box
+  - `return` is used to return value to the code that called it
+
+## Getting Multiple Values out of Function
+- use array
+- `function getSize(width, height, depth) {
+  var area = width * height;
+  var volume = width * height * depth;
+  var size = [area, volume];
+  return sizes;
+}
+  var areaOne = getSize(3, 2, 3)[0];
+  var wallTwo = getSize(3, 2, 3)[1];`
+  - area and volume are placed in an array called sizes
+  - array is then returned to the code that called `getSize()`
+  - area is the first value in the array
+  - volumeOne variable holds volume of a box that is 3 x 2 x 3
+  - volume is the second value in the array
+
+# 6 Reasons for Pair Programming
+
+## Greater Efficiency
+- easier to catch mistakes with 2 people
+- produces higher quality code
+- 2 people researching
+
+## Engaged Collaboration
+- stops you from procrastinating
+- rely more on each other
+- boosts confidence
+
+## Learning from Fellow Students
+- exposes you to different techniques
+- may have different skill sets
+
+## Social Skills
+- improves social skills
+- work together
+- shows employers you work well with others
+
+## Job Interview Readiness
+- common interviews have you pairing with an employee
+
+## Work Environment Readiness
+- many companies expect to train fresh hires from cs-degree programs
+- CF teaches you how to be ready with pairing
