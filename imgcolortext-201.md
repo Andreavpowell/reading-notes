@@ -225,3 +225,5 @@ PNG
 
 GIF
 - contain animations
+
+[Home](reading-notes.md)

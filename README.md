@@ -33,4 +33,5 @@ Working with a team comprised of people who fully understand and embrace the Gro
 # Code 201 Reading Notes  
 
 ## Table of Contents:
-*
+* [HTML Links, CSS Layout, JS Functions](linksfunctionslayout-201.md)
+* [HTML Images; CSS Color & Text](imgcolortext-201.md)

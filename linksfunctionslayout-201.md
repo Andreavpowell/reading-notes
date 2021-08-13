@@ -213,4 +213,6 @@
 
 ## Work Environment Readiness
 - many companies expect to train fresh hires from cs-degree programs
-- CF teaches you how to be ready with pairing
+- CF teaches you how to be ready with pairing  
+
+[Home](reading-notes.md)
