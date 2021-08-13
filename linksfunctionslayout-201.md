@@ -1,6 +1,4 @@
-#  HTML Links, JS Functions, and Intro to CSS Layout
-
-## HTML Links
+# HTML Links
 
 ## Links
 - created using the `<a>` (anchor) element
