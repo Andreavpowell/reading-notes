@@ -9,5 +9,3 @@
 - if you know you're going to get an error, you can handle it using the `try`, `catch`, `finally` statements. 
 
 [Home](reading-notes)
-
-test
