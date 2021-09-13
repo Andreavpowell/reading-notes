@@ -31,11 +31,11 @@ Working with a team comprised of people who fully understand and embrace the Gro
 - [JavaScript](javascript.md)
 - [JavaScript Programming](jsprogramming.md)  
 
-# Code 201 -  Foundations of Software Development
+## Code 201 -  Foundations of Software Development
 
 * [HTML Links, CSS Layout, JS Functions](linksfunctionslayout-201.md)
 * [HTML Images; CSS Color & Text](imgcolortext-201.md)
 
-# Code 301 - Intermediate Software Development
+## Code 301 - Intermediate Software Development
 
-# Code 401 - Advanced Software Development
+## Code 401 - Advanced Software Development
