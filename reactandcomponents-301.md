@@ -26,7 +26,7 @@
 - System maintenance and evolution
 - Independent
 
-# Props and How to Usse it in React
+# Props and How to Use it in React
 
 - Props stands for "properties"
 - Props passes data from one component to another
