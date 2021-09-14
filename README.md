@@ -19,9 +19,10 @@ Working with a team comprised of people who fully understand and embrace the Gro
 >- Embrace and learn from any criticism given to me, no matter who it may have come from.
 >- Always congratulate and be inspired by anyone that succeeds. Never allow jealousy to intervene.
 
-# Code 102 Reading Notes  
+# Notes
 
-## Table of Contents:
+## Code 102 - Intro to Software Development
+
 - [Markdown](markdown.md)
 - [Coder's Computer](coderscomputer.md)
 - [GitHub Intro](gitintro.md)
@@ -30,8 +31,11 @@ Working with a team comprised of people who fully understand and embrace the Gro
 - [JavaScript](javascript.md)
 - [JavaScript Programming](jsprogramming.md)  
 
-# Code 201 Reading Notes  
+## Code 201 -  Foundations of Software Development
 
-## Table of Contents:
 * [HTML Links, CSS Layout, JS Functions](linksfunctionslayout-201.md)
 * [HTML Images; CSS Color & Text](imgcolortext-201.md)
+
+## Code 301 - Intermediate Software Development
+
+## Code 401 - Advanced Software Development
