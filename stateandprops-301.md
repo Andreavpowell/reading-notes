@@ -17,4 +17,4 @@
 - react components automatically re-render whenever there is a change in their state or props
 - a component state should be able to store any sort of data type, input elements, form, checkbox.
 
-# Things I want to know more about
+## Things I want to know more about
